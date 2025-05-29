@@ -34,9 +34,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SanchayanSamaddar04&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchayanSamaddar04&theme=radical" width="48%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchayanSamaddar04&theme=react-dark" />
-</p>
+
+### 🌈 My Developer Vibes
+
+🧠 I believe in:  
+> **Build fast. Learn faster. Fail forward. Iterate. Ship. Repeat.**
+
+☕ Caffeine + Code = Life  
+💡 Every bug is just a misunderstood feature  
+🎯 Currently aiming to:  
+- ✨ Build human-centered interfaces  
+- 📊 Decode business insights with data  
+- 🌍 Land my first big opportunity in tech
+
 
 
 
