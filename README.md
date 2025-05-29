@@ -17,15 +17,16 @@
 
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+</p>
 
 ---
 
