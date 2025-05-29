@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Master's in Information Technology (Business Informatics) – **James Cook University, Brisbane**
+- 🎓 Master's in Information Technology (Business Informatics) 
 - 🔍 Focused on solving **real-world problems** using tech
 - 💡 Passionate about **Software Development**, **AI/ML**, and **Business/Data Analytics**
 - 🌱 Currently learning: Full-stack development, HCI, and Power BI
