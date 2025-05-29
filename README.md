@@ -11,7 +11,7 @@
 - 🔍 Focused on solving **real-world problems** using tech
 - 💡 Passionate about **Software Development**, **AI/ML**, and **Business/Data Analytics**
 - 🌱 Currently learning: Full-stack development, HCI, and Power BI
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanchayan-samaddar)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanchayansamaddar04)
 
 ---
 
@@ -31,12 +31,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchayan-samaddar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchayan-samaddar&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchayanSamaddar04&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchayanSamaddar04&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan-samaddar&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchayanSamaddar04&layout=compact&theme=radical" width="48%" />
 </p>
 
 
