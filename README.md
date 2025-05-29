@@ -34,10 +34,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SanchayanSamaddar04&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchayanSamaddar04&theme=radical" width="48%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchayanSamaddar04&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchayanSamaddar04&theme=react-dark" />
 </p>
+
 
 
 ### 🧠 Fun Dev Quote
