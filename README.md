@@ -28,16 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchayan-samaddar&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchayan-samaddar&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanchayan-samaddar&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchayan-samaddar&theme=radical" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchayan-samaddar&layout=compact&theme=radical" width="48%" />
+</p>
+
 
 ### 🧠 Fun Dev Quote
 
